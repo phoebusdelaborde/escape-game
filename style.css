@@ -1,0 +1,40 @@
+button {
+  animation: moi 11s infinite;
+  background-color: black;
+  border: none;
+}
+@keyframes moi {
+  0% {
+    color: yellow;
+  }
+  10% {
+    color: orange;
+  }
+  20% {
+    color: orangered;
+  }
+  30% {
+    color: red;
+  }
+  40% {
+    color: pink;
+  }
+  50% {
+    color: blueviolet;
+  }
+  60% {
+    color: purple;
+  }
+  70% {
+    color: blue;
+  }
+  80% {
+    color: green;
+  }
+  90% {
+    color: yellowgreen;
+  }
+  100% {
+    color: yellow;
+  }
+}
